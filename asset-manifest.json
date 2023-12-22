@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VirtualExpo/static/css/main.4acae26d.css",
+    "main.js": "/VirtualExpo/static/js/main.cb8bc0c3.js",
+    "index.html": "/VirtualExpo/index.html",
+    "main.4acae26d.css.map": "/VirtualExpo/static/css/main.4acae26d.css.map",
+    "main.cb8bc0c3.js.map": "/VirtualExpo/static/js/main.cb8bc0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acae26d.css",
+    "static/js/main.cb8bc0c3.js"
+  ]
+}
