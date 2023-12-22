@@ -1,0 +1,50 @@
+{
+  "name": "Virtual_expo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "bloom",
+    "refraction",
+    "diamond",
+    "ring",
+    "html"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "9.53.0",
+    "@react-three/fiber": "8.10.0",
+    "@react-three/postprocessing": "^2.7.0",
+    "@types/three": "0.148.0",
+    "audit": "^0.0.6",
+    "bootstrap": "^5.3.2",
+    "fix": "^0.0.6",
+    "gh-pages": "^6.1.0",
+    "gsap": "^3.12.4",
+    "jquery": "^3.7.1",
+    "lamina": "1.1.23",
+    "npm": "^10.2.4",
+    "react": "18.2.0",
+    "react-colorful": "5.6.1",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "snapsvg-cjs": "^0.0.6",
+    "three": "0.148.0",
+    "three-stdlib": "^2.28.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2"
+  }
+}

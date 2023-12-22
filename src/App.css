@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+.title-and-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.project-title {
+    margin-right: 15px;
+    font-weight: bold;
+    color: #343a40; /* Dark grey text */
+}
+
+.header-button {
+    padding: 10px;
+    margin-right: 5px;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.header-button:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+}
+
+.camera-position {
+    margin-right: 15px;
+    color: #343a40; /* Dark grey text */
+}

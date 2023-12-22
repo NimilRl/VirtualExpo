@@ -1,0 +1,21 @@
+.info-panel {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px; /* Adjust width as needed */
+    background-color: white;
+    border-left: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100%;
+    overflow-y: auto; /* Enable scroll if content is too long */
+  }
+  
+  .info-panel img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .info-panel button {
+    /* Style your back button */
+  }
