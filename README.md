@@ -82,4 +82,5 @@ Crafted with knowledge from CS460 and the insights of professors.
 
 [Deep Patel](https://www.linkedin.com/in/deepkumar-patel05/): For his invaluable guidance and insights that helped shape this project.
 [Nimil Lathiya](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
+
 ---
