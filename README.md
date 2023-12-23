@@ -80,7 +80,7 @@ Crafted with knowledge from CS460 and the insights of professors.
 (University of Massachusetts Boston)  
 <img width="201" alt="image" href="https://cs460.org/" src="https://github.com/NimilRl/VirtualExpo/assets/90232167/f709258a-fc0c-46b2-8f4d-9c3669e9055b">
 
-[Deep Patel](https://www.linkedin.com/in/deepkumar-patel05/): For his invaluable guidance and insights that helped shape this project.
+[Deep Patel](https://www.linkedin.com/in/deepkumar-patel05/): For his invaluable guidance and insights that helped shape this project.  
 [Nimil Lathiya](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
 
 ---
