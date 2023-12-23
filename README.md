@@ -11,7 +11,7 @@ Begin your digital adventure with VirtualExpo, where each click opens doors to a
 - **Real-Time Weather** ☔️⛅️❄️: Set the scene with atmospheric weather conditions to enhance the mood of your exhibit.
 - **Interactive Booths** 🎉: Experience the essence of each booth with informative pop-ups that tell the tale of the exhibitor.
 
-## Visual Sneak Peek
+## Visual Sneak Peek 📹
 
 Take a look at the VirtualExpo experience:
 
@@ -24,7 +24,7 @@ Click on a booth and uncover what's inside.
 
 Ignite your own VirtualExpo with these simple commands:
 
-**Clone the Portal**:  
+**Clone the Portal** 🔮 :  
    Unearth the treasures of VirtualExpo by cloning the repository. In your favorite terminal, enter the incantation below:
 
    ```bash
@@ -47,7 +47,7 @@ Ignite your own VirtualExpo with these simple commands:
    npm install
    ```
 
-**Awaken the Exhibition**:  
+**Awaken the Exhibition** ✨:  
    With all elements in place, bring your virtual expo to life. This command will breathe life into the galleries and halls, opening them up to your screen:
 
    ```bash
@@ -62,14 +62,14 @@ Deploy your expo for all to see:
 npm run deploy
 ```
 
-## Live Demos
+## Live Demos 👁️
 
 Witness VirtualExpo in motion: [Watch Here](https://nimilrl.github.io/VirtualExpo/) 
 if the given link doesn't work go with this [Demo](https://3dvirtualexpo.netlify.app/)
 
 ## Acknowledge the Craft
 
-Citing this platform:
+Citing this platform 🏆:
 ```
 Nimil. (2023). VirtualExpo: A New Dimension in Exhibition.
 ```
