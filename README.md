@@ -15,7 +15,8 @@ Begin your digital adventure with VirtualExpo, where each click opens doors to a
 
 Take a look at the VirtualExpo experience:
 
-https://github.com/NimilRl/VirtualExpo/assets/90232167/f1f8e647-7a55-408e-b8d5-cb80eabf5719
+[virtualexpo.webm](https://github.com/NimilRl/VirtualExpo/assets/90232167/f9546615-f164-4ea3-bf3f-c01e1f2b8629)
+
 
 Explore the exhibition space in stunning 3D.
 Click on a booth and uncover what's inside.
